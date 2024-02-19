@@ -31,8 +31,10 @@
 
 #footer{
     background-color:#502314 ;
+    padding: 10px;
 
 }
 #footer h4{
     color: aliceblue;
+    font-size: 15px;
 }
