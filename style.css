@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Sign-in-btn{
+
+    background-color:#d62300;
+    border: 0px;
+}
+
+#cart{
+
+    background-color:#502314;
+    
+    border: 0px;
+}
+
+#menu{
+    font-size: 2vw;
+}
+.text-brown{
+    color:#502314 ;
+}
+
+#sec1{
+
+    border-top: gray;
+}
+
+#footer{
+    background-color:#502314 ;
+
+}
+#footer h4{
+    color: aliceblue;
+}
